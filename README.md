@@ -9,3 +9,7 @@ A simple todo application to help you learn Rust programming.
 ## Technologies
 - Rust (using chrono, console, dialoguer, rusqlite crates)
 - SQLite
+
+## Implementations
+- [Basic CLI with mutable vector](https://github.com/arunacharya528/todo-rust/tree/basic-cli)
+- [Basic CLI with sqlite](https://github.com/arunacharya528/todo-rust/tree/sqlite-implementation)
